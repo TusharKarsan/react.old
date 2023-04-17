@@ -1,3 +1,17 @@
+# Created 2023-04-17 by Tushar Karsan
+
+```
+dotnet new react -o react.old
+```
+and no further changes were made.
+
+Notice that this tempalte incorporated bootstrap with layout.
+
+Compare with
+[react.net](https://github.com/TusharKarsan/react.net).
+
+# Original README.md
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
